@@ -1,4 +1,4 @@
-# Hi there, I'm Ahmed Moosani 👋
+# Hi there, I'm Ahmed! 👋
 
 ## AI/ML Developer | Computer Vision Enthusiast | Building Intelligent Systems
 
