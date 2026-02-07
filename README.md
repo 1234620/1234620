@@ -6,15 +6,15 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
 I'm a passionate AI/ML developer specializing in **Computer Vision**, **Generative AI**, and **AI Agents**. Currently pursuing my MBA Tech with a focus on Artificial Intelligence, I love building intelligent systems that solve real-world problems.
 
-- 🔭 Currently working on advanced AI agents and multimodal systems
-- 🌱 Exploring cutting-edge topics in GenAI, RAG pipelines, and agentic workflows
-- 🎯 Open to **internship opportunities** in ML Engineering, AI Development, and Data Science
-- 💼 Available for: Remote | Hybrid | Onsite roles
-- 🏆 Top 10 Finalist at RIIDL Hack (Incuverse) & SIH College Round qualifier
+-  Currently working on advanced AI agents and multimodal systems
+-  Exploring cutting-edge topics in GenAI, RAG pipelines, and agentic workflows
+-  Open to **internship opportunities** in ML Engineering, AI Development, and Data Science
+-  Available for: Remote | Hybrid | Onsite roles
+-  Top 10 Finalist at RIIDL Hack (Incuverse) & SIH College Round qualifier
 
 ---
 
@@ -39,50 +39,34 @@ Python | C++ | TypeScript | C# | SQL
 - **Data Processing:** NumPy, Pandas, OpenCV
 
 ---
+### Featured Projects
 
-### 🚀 Featured Projects
+**[Real-Time Weapon Detection System](https://github.com/1234620)**  
+Computer vision system using YOLOv8 + OpenCV for real-time weapon detection across images, videos, and live camera feeds. Trained on 30,000+ images with real-time inference capabilities.  
+Tech: Python, YOLOv8, OpenCV
 
-#### 🔫 [Real-Time Weapon Detection System](https://github.com/1234620)
-Computer vision system using **YOLOv8 + OpenCV** for real-time weapon detection across images, videos, and live camera feeds.
-- 📊 Trained on 30,000+ images
-- ⚡ Real-time inference on live streams
-- **Tech:** Python, YOLOv8, OpenCV
+**[Deepfake Detection Framework](https://github.com/1234620)**  
+Unified deep learning model combining CNN + BiLSTM for detecting deepfakes in both images and videos. Achieved 93%+ accuracy on 60,000+ sample dataset using a single architecture.  
+Tech: Python, CNN, BiLSTM, TensorFlow
 
-#### 🎭 [Deepfake Detection Framework](https://github.com/1234620)
-Unified deep learning model combining **CNN + BiLSTM** for detecting deepfakes in images and videos.
-- ✅ 93%+ accuracy on 60,000+ samples
-- 🧠 Single architecture for both images and videos
-- **Tech:** Python, CNN, BiLSTM, TensorFlow
+**[NLP Multi-Agent Travel Chatbot](https://github.com/1234620)**  
+Intelligent multi-agent chatbot providing comprehensive travel assistance including flight search, hotel bookings, and AI-powered itinerary generation using Retrieval-Augmented Generation (RAG).  
+Tech: TypeScript, Python, LangChain, RAG
 
-#### ✈️ [NLP Multi-Agent Travel Chatbot](https://github.com/1234620)
-Intelligent multi-agent chatbot providing comprehensive travel assistance with flight search, hotel bookings, and AI-powered itinerary generation.
-- 🤖 Multi-agent architecture with RAG
-- 🧳 End-to-end travel planning automation
-- **Tech:** TypeScript, Python, LangChain, RAG
+**[AI-Powered Developer Profile Analyzer](https://github.com/1234620)**  
+React + TypeScript web app that analyzes GitHub, LinkedIn, and CodeChef profiles to provide personalized recommendations and visualizations for improving digital presence.  
+Tech: TypeScript, React, LangChain, Python
 
-#### 👨‍💻 [AI-Powered Developer Profile Analyzer](https://github.com/1234620)
-React + TypeScript web app that analyzes GitHub, LinkedIn, and CodeChef profiles to provide personalized recommendations.
-- 📈 Profile visualization and insights
-- 💡 AI-driven improvement suggestions
-- **Tech:** TypeScript, React, LangChain, Python
-
-#### 💬 [Memory-Based Chatbot](https://github.com/1234620)
-Conversational AI chatbot with context retention using AWS Bedrock and LangChain.
-- 🧠 Persistent memory across conversations
-- ☁️ Powered by AWS Bedrock
-- **Tech:** Python, TypeScript, Streamlit, AWS
+**[Memory-Based Chatbot](https://github.com/1234620)**  
+Conversational AI chatbot with context retention using AWS Bedrock and LangChain. Features persistent memory across conversations for more natural interactions.  
+Tech: Python, TypeScript, Streamlit, AWS Bedrock    
 
 ---
 
-### 📊 GitHub Stats
-
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=1234620&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1234620&layout=compact&theme=radical)
 
 ---
 
-### 🎓 Education
+###  Education
 
 **Narsee Monjee Institute of Management Studies (NMIMS)**  
 MBA Tech in Artificial Intelligence | 2023 – 2028  
@@ -93,15 +77,15 @@ Machine Learning • Deep Learning • Computer Vision • NLP • Computer Netw
 
 ---
 
-### 🏆 Achievements
+###  Achievements
 
-- 🥉 **Top 10 Finalist** - RIIDL Hack (Incuverse), 24-hour hackathon
-- ✅ **Cleared College Round** - Smart India Hackathon (SIH)
-- 👔 **Executive** - IEEE MPSTME (Logistics Department)
+-  **Top 10 Finalist** - RIIDL Hack (Incuverse), 24-hour hackathon
+-  **Cleared College Round** - Smart India Hackathon (SIH)
+-  **Executive** - IEEE MPSTME (Logistics Department)
 
 ---
 
-### 📫 Let's Connect!
+###  Let's Connect!
 
 I'm actively seeking **internship opportunities** in ML Engineering, AI Development, and Data Science roles. Feel free to reach out!
 
@@ -111,4 +95,4 @@ I'm actively seeking **internship opportunities** in ML Engineering, AI Developm
 
 ---
 
-⭐️ From [Ahmed Moosani](https://github.com/1234620) | Open to collaborations and exciting AI projects!
+ From [Ahmed Moosani](https://github.com/1234620) | Open to collaborations and exciting AI projects!
