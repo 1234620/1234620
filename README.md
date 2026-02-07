@@ -2,7 +2,7 @@
 
 ## AI/ML Developer | Computer Vision Enthusiast | Building Intelligent Systems
 
-📍 Mumbai, India | 🎓 MBA Tech in Artificial Intelligence @ NMIMS (2023-2028)
+📍 Mumbai, India | 🎓 MBA Tech in Artificial Intelligence @NMIMS (2023-2028)
 
 ---
 
