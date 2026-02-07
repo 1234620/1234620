@@ -70,7 +70,7 @@ Tech: Python, TypeScript, Streamlit, AWS Bedrock
 
 **Narsee Monjee Institute of Management Studies (NMIMS)**  
 MBA Tech in Artificial Intelligence | 2023 – 2028  
-GPA: 3.75/4.0
+GPA: 3.75/4.0(Current)
 
 **Relevant Coursework:**  
 Machine Learning • Deep Learning • Computer Vision • NLP • Computer Networks
