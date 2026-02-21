@@ -18,7 +18,7 @@ I'm a passionate AI/ML developer specializing in **Computer Vision**, **Generati
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 **Languages:**
 ```
