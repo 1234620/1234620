@@ -9,6 +9,7 @@
 ###  About Me
 
 I'm a passionate AI/ML developer specializing in **Computer Vision**, **Generative AI**, and **AI Agents**. Currently pursuing my MBA Tech with a focus on Artificial Intelligence, I love building intelligent systems that solve real-world problems.
+Potfolio - https://1234620.github.io/portfolio/
 
 -  Currently working on advanced AI agents and multimodal systems
 -  Exploring cutting-edge topics in GenAI, RAG pipelines, and agentic workflows
