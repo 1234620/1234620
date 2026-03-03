@@ -27,19 +27,26 @@ Potfolio - https://1234620.github.io/ahmed-portfolio/
 Python | C++ | TypeScript | C# | SQL
 ```
 
-**AI/ML Frameworks & Tools:**
-- **Deep Learning:** PyTorch, TensorFlow, Keras, CNN, BiLSTM
-- **Computer Vision:** YOLOv8, OpenCV, Object Detection
-- **NLP & GenAI:** LangChain, RAG Pipelines, Transformers, Embeddings
-- **AI Agents:** Multi-agent systems, MCP (Model Context Protocol)
-- **Vector Databases:** Pinecone, ChromaDB, FAISS
+####  AI / Machine Learning
+PyTorch • Scikit-learn • CNNs • BiLSTM • Model Training & Fine-Tuning • Hyperparameter Tuning
 
-**Development Tools:**
-- **Cloud & APIs:** AWS Bedrock, REST APIs
-- **Frontend:** React, Streamlit
-- **Version Control:** Git, GitHub
-- **Data Processing:** NumPy, Pandas, OpenCV
+####  NLP & LLM Systems
+RAG Pipelines • LangChain • Transformers • Embeddings • Multi-Agent Systems
 
+####  Computer Vision
+YOLOv8 • OpenCV • Image & Video Processing
+
+####  Vector & Retrieval
+FAISS • ChromaDB • Pinecone
+
+####  Backend & Deployment
+FastAPI • REST APIs • AWS Bedrock
+
+####  Data & Processing
+NumPy • Pandas • SQL
+
+####  Development
+Git • GitHub • React • Streamlit
 ---
 ### Featured Projects
 
