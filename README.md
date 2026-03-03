@@ -27,11 +27,8 @@ Potfolio - https://1234620.github.io/ahmed-portfolio/
 Python | C++ | TypeScript | C# | SQL
 ```
 
-####  AI / Machine Learning
-PyTorch • Scikit-learn • CNNs • BiLSTM • Model Training & Fine-Tuning • Hyperparameter Tuning
-
-####  NLP & LLM Systems
-RAG Pipelines • LangChain • Transformers • Embeddings • Multi-Agent Systems
+####  AI / Machine Learning: PyTorch • Scikit-learn • CNNs • BiLSTM • Model Training & Fine-Tuning • Hyperparameter Tuning
+####  NLP & LLM Systems:  RAG Pipelines • LangChain • Transformers • Embeddings • Multi-Agent Systems
 
 ####  Computer Vision
 YOLOv8 • OpenCV • Image & Video Processing
