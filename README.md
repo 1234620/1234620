@@ -47,6 +47,7 @@ NumPy • Pandas • SQL
 
 ####  Development
 Git • GitHub • React • Streamlit
+
 ---
 ### Featured Projects
 
