@@ -1,101 +1,82 @@
-# Hi there, I'm Ahmed! 👋
+<div align="center">
 
-## AI/ML Developer | Computer Vision Enthusiast | Building Intelligent Systems
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=700&lines=Ahmed+Moosani;AI%2FML+Developer+%7C+Computer+Vision+%7C+GenAI;Building+Intelligent+Systems+that+Ship" alt="Typing SVG" />
+</a>
 
-📍 Mumbai, India | 🎓 MBA Tech in Artificial Intelligence @NMIMS (2023-2028)
-
----
-
-###  About Me
-
-I'm a passionate AI/ML developer specializing in **Computer Vision**, **Generative AI**, and **AI Agents**. Currently pursuing my MBA Tech with a focus on Artificial Intelligence, I love building intelligent systems that solve real-world problems.
-----
-Potfolio - https://1234620.github.io/ahmed-portfolio/
-
--  Currently working on advanced AI agents and multimodal systems
--  Exploring cutting-edge topics in GenAI, RAG pipelines, and agentic workflows
--  Open to **internship opportunities** in ML Engineering, AI Development, and Data Science
--  Available for: Remote | Hybrid | Onsite roles
--  Top 10 Finalist at RIIDL Hack (Incuverse) & SIH College Round qualifier
-
----
-
-###  Tech Stack
-
-**Languages:**
-```
-Python | C++ | TypeScript | C# | SQL
-```
-**AI & Deep Learning:**  
-PyTorch • CNNs • BiLSTM • Transformers • Model Training & Fine-Tuning  
-
-**LLM & Retrieval Systems:**  
-RAG • LangChain • Hugging Face • Embeddings • Vector DBs (FAISS / ChromaDB / Pinecone)  
-
-**Computer Vision:**  
-YOLOv8 • OpenCV  
-
-**Backend & Deployment:**  
-FastAPI • REST APIs • Docker • AWS Bedrock  
-
-**Data & Tools:**  
-NumPy • Pandas • Git • React • Streamlit
-
----
-### Featured Projects
-
-**[Real-Time Weapon Detection System](https://github.com/1234620)**  
-Computer vision system using YOLOv8 + OpenCV for real-time weapon detection across images, videos, and live camera feeds. Trained on 30,000+ images with real-time inference capabilities.  
-Tech: Python, YOLOv8, OpenCV
-
-**[Deepfake Detection Framework](https://github.com/1234620)**  
-Unified deep learning model combining CNN + BiLSTM for detecting deepfakes in both images and videos. Achieved 93%+ accuracy on 60,000+ sample dataset using a single architecture.  
-Tech: Python, CNN, BiLSTM, TensorFlow
-
-**[NLP Multi-Agent Travel Chatbot](https://github.com/1234620)**  
-Intelligent multi-agent chatbot providing comprehensive travel assistance including flight search, hotel bookings, and AI-powered itinerary generation using Retrieval-Augmented Generation (RAG).  
-Tech: TypeScript, Python, LangChain, RAG
-
-**[AI-Powered Developer Profile Analyzer](https://github.com/1234620)**  
-React + TypeScript web app that analyzes GitHub, LinkedIn, and CodeChef profiles to provide personalized recommendations and visualizations for improving digital presence.  
-Tech: TypeScript, React, LangChain, Python
-
-**[Memory-Based Chatbot](https://github.com/1234620)**  
-Conversational AI chatbot with context retention using AWS Bedrock and LangChain. Features persistent memory across conversations for more natural interactions.  
-Tech: Python, TypeScript, Streamlit, AWS Bedrock    
-
----
-
-
----
-
-###  Education
-
-**Narsee Monjee Institute of Management Studies (NMIMS)**  
-MBA Tech in Artificial Intelligence | 2023 – 2028  
-GPA: 3.75/4.0(Current)
-
-**Relevant Coursework:**  
-Machine Learning • Deep Learning • Computer Vision • NLP • Computer Networks
-
----
-
-###  Achievements
-
--  **Top 10 Finalist** - RIIDL Hack (Incuverse), 24-hour hackathon
--  **Cleared College Round** - Smart India Hackathon (SIH)
--  **Executive** - IEEE MPSTME (Logistics Department)
-
----
-
-###  Let's Connect!
-
-I'm actively seeking **internship opportunities** in ML Engineering, AI Development, and Data Science roles. Feel free to reach out!
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-moosani-03bb6b27a/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1234620)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://1234620.github.io/ahmed-portfolio/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amoosani123@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=1234620&color=6E40C9&style=for-the-badge)](https://github.com/1234620)
+
+</div>
 
 ---
 
- From [Ahmed Moosani](https://github.com/1234620) | Open to collaborations and exciting AI projects!
+## About
+
+MBA Tech (AI) student at NMIMS Mumbai (GPA: 3.75/4.0) focused on applied ML — computer vision, agentic systems, and production-ready AI pipelines. I build end-to-end: model → API → deployment.
+
+📍 Mumbai, India &nbsp;|&nbsp; 🎓 Class of 2028 &nbsp;|&nbsp; 🔍 Seeking ML Engineering / AI Development internships
+
+**Currently building:** A Flask-based DeepFake Detection web app with a full CI/CD pipeline (Jenkins + Docker) — targeting production-grade deployment, not just a notebook demo.
+
+---
+
+## Featured Projects
+
+| Project | Stack | Highlight |
+|---|---|---|
+| [🔫 Real-Time Weapon Detection](https://github.com/1234620/REPO_NAME) | YOLOv8, OpenCV, Python | Trained on 30K+ images; real-time inference across image/video/live feed |
+| [🎭 DeepFake Detection Framework](https://github.com/1234620/DeepFake-Detection) | CNN + BiLSTM, TensorFlow | 93%+ accuracy on 60K+ samples; unified architecture for image & video |
+| [✈️ Multi-Agent Travel Chatbot](https://github.com/1234620/Travel-Based-Chatbot) | LangChain, RAG, TypeScript | Flights + hotels + itinerary via multi-agent orchestration |
+| [🚆 AI Railway Traffic Optimizer](https://github.com/1234620/train-traffic-optimizer) | TypeScript, ML pipeline | End-to-end optimization platform for Indian Railways scheduling |
+
+---
+
+## Tech Stack
+
+**ML & Deep Learning**
+`PyTorch` `TensorFlow` `CNNs` `BiLSTM` `Transformers` `YOLOv8` `OpenCV`
+
+**LLM & Agentic Systems**
+`LangChain` `RAG` `HuggingFace` `FAISS` `ChromaDB` `Pinecone` `AWS Bedrock`
+
+**Backend & DevOps**
+`Python` `FastAPI` `TypeScript` `Docker` `Jenkins` `REST APIs`
+
+**Data & Frontend**
+`NumPy` `Pandas` `React` `Streamlit` `SQL`
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=1234620&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=1234620&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## Education
+
+**NMIMS Mumbai** — MBA Tech in Artificial Intelligence (2023–2028)
+GPA: 3.75/4.0 &nbsp;|&nbsp; Coursework: ML · Deep Learning · Computer Vision · NLP · DevOps
+
+---
+
+## Achievements
+
+- 🏆 **Top 10 Finalist** — RIIDL Hack (Incuverse), 24-hour hackathon
+- ⚡ **Executive** — IEEE MPSTME, Logistics Department
+
+---
+
+<div align="center">
+  <i>Open to 3-month internships — Remote / Hybrid / Onsite</i>
+</div>
